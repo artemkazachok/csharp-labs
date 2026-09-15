@@ -1,0 +1,14 @@
+D:\Нужное мне\C#\Lab_3\Lab_3\zad_7\bin\Debug\net10.0\zad_7.exe
+D:\Нужное мне\C#\Lab_3\Lab_3\zad_7\bin\Debug\net10.0\zad_7.deps.json
+D:\Нужное мне\C#\Lab_3\Lab_3\zad_7\bin\Debug\net10.0\zad_7.runtimeconfig.json
+D:\Нужное мне\C#\Lab_3\Lab_3\zad_7\bin\Debug\net10.0\zad_7.dll
+D:\Нужное мне\C#\Lab_3\Lab_3\zad_7\bin\Debug\net10.0\zad_7.pdb
+D:\Нужное мне\C#\Lab_3\Lab_3\zad_7\obj\Debug\net10.0\zad_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Нужное мне\C#\Lab_3\Lab_3\zad_7\obj\Debug\net10.0\zad_7.AssemblyInfoInputs.cache
+D:\Нужное мне\C#\Lab_3\Lab_3\zad_7\obj\Debug\net10.0\zad_7.AssemblyInfo.cs
+D:\Нужное мне\C#\Lab_3\Lab_3\zad_7\obj\Debug\net10.0\zad_7.csproj.CoreCompileInputs.cache
+D:\Нужное мне\C#\Lab_3\Lab_3\zad_7\obj\Debug\net10.0\zad_7.dll
+D:\Нужное мне\C#\Lab_3\Lab_3\zad_7\obj\Debug\net10.0\refint\zad_7.dll
+D:\Нужное мне\C#\Lab_3\Lab_3\zad_7\obj\Debug\net10.0\zad_7.pdb
+D:\Нужное мне\C#\Lab_3\Lab_3\zad_7\obj\Debug\net10.0\zad_7.genruntimeconfig.cache
+D:\Нужное мне\C#\Lab_3\Lab_3\zad_7\obj\Debug\net10.0\ref\zad_7.dll

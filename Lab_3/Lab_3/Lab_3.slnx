@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="Lab_3/Lab_3.csproj" />
+  <Project Path="zad_1/zad_1.csproj" />
+  <Project Path="zad_2/zad_2.csproj" />
+  <Project Path="zad_3/zad_3.csproj" />
+  <Project Path="zad_4/zad_4.csproj" />
+  <Project Path="zad_5/zad_5.csproj" Id="8ca8e467-9dbb-457e-b601-0fd35c7925ba" />
+  <Project Path="zad_6/zad_6.csproj" Id="e03bd8fe-8da9-4510-8e10-c751452a92f8" />
+  <Project Path="zad_7/zad_7.csproj" Id="9085721d-0c66-4f32-b682-3a99443c08f5" />
+</Solution>
