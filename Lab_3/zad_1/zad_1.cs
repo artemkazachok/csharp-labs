@@ -8,7 +8,7 @@ for (Double i = first_x; i < last_x; i += 0.5)
 {
     if(i >= -10 && i <= -6)
     {
-        y = -2 - (Math.Sqrt(4 - Math.Pow((i + 8), 2)));
+        y = -2 + (Math.Sqrt(4 - Math.Pow((i + 8), 2)));
     }
     else if(i > -6 && i <= 2)
     {

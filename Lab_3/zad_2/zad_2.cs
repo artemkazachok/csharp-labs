@@ -1,4 +1,4 @@
-const Double R = 7;
+const Double R = 5;
 Double x, y;
 for(int i = 0; i < 10; i++)
 {
