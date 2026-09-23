@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Lab_4/Lab_4.csproj" />
+  <Project Path="zad_1/zad_1.csproj" />
+  <Project Path="zad_2/zad_2.csproj" />
+  <Project Path="zad_3/zad_3.csproj" />
+  <Project Path="zad_4/zad_4.csproj" />
+  <Project Path="zad_5/zad_5.csproj" />
+  <Project Path="zad_6/zad_6.csproj" />
+</Solution>
